@@ -3,7 +3,8 @@
 # 1. Analytics Reports
 
 ## 1.1 Mapping NYC Neighborhood Trees
-[![tree_map](./img/tree_map.png)](https://www.kaggle.com/douglasl/nyc-trees)
+![tree_map](./img/tree_map.png)
+[Details](https://www.kaggle.com/douglasl/nyc-trees)
     
     Objective: Visualize how tree health and population have evolved in different NYC neighborhoods
     Data: Tree census data containing 600k rows 
@@ -22,7 +23,8 @@
 
 ## 1.3 Detecting Money Laundering 
 
-[![aml_dashboard](./img/az_dashboard.png)](https://public.tableau.com/views/AzerbaijaniLaundromatDashboardsWIP_15614256807360/AccountInfo?:embed=y&:display_count=yes&:origin=viz_share_link)
+![aml_dashboard](./img/az_dashboard.png)
+[Details](https://public.tableau.com/views/AzerbaijaniLaundromatDashboardsWIP_15614256807360/AccountInfo?:embed=y&:display_count=yes&:origin=viz_share_link)
 
     Objective: Provide a quick summary of a specified bank account's activities
     Data: 16940 bank transactions from Azerbaijani investigation
@@ -39,7 +41,8 @@ Source: [Azerbaijani Laundromat](https://www.occrp.org/en/azerbaijanilaundromat/
     Results: Found top 5 candidate locations, with high amounts of both foot traffic and pet stores
 
 ## 1.5 Farmer Market Sales
-[![market_sales](./img/market_sales.png)](https://github.com/Douglas-L/market_sales)
+![market_sales](./img/market_sales.png)
+[Details](https://github.com/Douglas-L/market_sales)
 
     Objective: Create accessible report on market sales trends 
     Data: Square POS transactions, manually entry transactions
